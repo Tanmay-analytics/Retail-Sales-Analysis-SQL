@@ -49,7 +49,7 @@ Key exploration queries included:
 
 ## **Data Analysis (Business Questions)**
 
-The project addresses 20 specific business questions through SQL queries, including:
+The project addresses 16 specific business questions through SQL queries, including:
 
 1. **Transactional Filters:** Finding all sales on specific dates or for specific quantities (e.g., Clothing sales \> 4 units).  
 2. **Category Analysis:** Calculating total sales and total transactions per category.  
